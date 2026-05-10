@@ -17,3 +17,4 @@ for get all the dependency used in this project. then make a database in Postgre
 and go to the root project directory and run 
 
 go run main.go
+
